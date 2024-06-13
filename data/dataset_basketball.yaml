@@ -1,0 +1,7 @@
+train: '/home/jia/anktechDrive/09_dataset/basketball/images/train'
+val: '/home/jia/anktechDrive/09_dataset/basketball/images/val'
+test:
+nc: 2
+names:
+  0: ball
+  1: person
